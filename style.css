@@ -1,0 +1,27 @@
+body{
+    background-color: #333;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    background-color: red;
+}
+#inputPokemon{
+    width: 50%;
+    font-size: 40px;
+    padding: 10px;
+    border-radius: 10px;
+}
+#infoPokedex{
+    width: 50%;
+    background-color: black;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 20px;
+    border: 10px solid white;
+    text-transform: capitalize;
+}
+span{
+    border: 1px solid white;
+    padding: 5px;
+    border-radius: 15px;
+}
